@@ -1,4 +1,4 @@
-# EXP-3
+![WhatsApp Image 2026-04-06 at 9 52 26 PM](https://github.com/user-attachments/assets/d3abd412-dd5d-4b2d-99a2-2f03a19726c6)# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -39,10 +39,14 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: CIRCUIT DIAGRAM:
+	![WhatsApp Image 2026-04-06 at 9 52 26 PM](https://github.com/user-attachments/assets/7763b3e1-7856-429e-b468-26592f655c5a)
 Tabulation:1
-	
+
+
 Cross connection: CIRCUIT DIAGRAM:
+![WhatsApp Image 2026-04-06 at 9 52 27 PM](https://github.com/user-attachments/assets/9cdc1f6a-c562-4224-9000-fcdb7599647a)
+
 
 Tabulation:2
 
