@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-04-06 at 9 52 26 PM](https://github.com/user-attachments/assets/d3abd412-dd5d-4b2d-99a2-2f03a19726c6)# EXP-3
+# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
